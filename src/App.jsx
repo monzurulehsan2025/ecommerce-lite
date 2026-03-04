@@ -24,14 +24,6 @@ const PRODUCTS = [
     price: 32.00,
     description: "A calming botanical blend of Lavender and Melatonin to help you drift into a deep, restful sleep.",
     image: "/sleep-elixir.png"
-  },
-  {
-    id: 4,
-    title: "Organic Greens Power Blend",
-    category: "Superfoods",
-    price: 49.00,
-    description: "Rich in spirulina, kale, and wheatgrass. One scoop provides your daily serving of vital greens.",
-    image: "/greens-powder.png"
   }
 ];
 
